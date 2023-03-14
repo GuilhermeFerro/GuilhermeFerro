@@ -1,7 +1,7 @@
 # 👋 Hello! Welcome...
 
 <!--
-**GuilhermeFerro/GuilhermeFerro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**gsferro/gsferro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -42,8 +42,8 @@ Here are some ideas to get you started:
 ## Estatísticas
 <div>
 <a href="https://github.com/seu-usuário-aqui">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeFerro&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeFerro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsferro&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gsferro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ## Contatos:
@@ -53,4 +53,4 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/guilherme-ferro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-![Snake animation](https://github.com/GuilhermeFerro/GuilhermeFerro/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/gsferro/gsferro/blob/output/github-contribution-grid-snake.svg)
