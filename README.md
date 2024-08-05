@@ -1,28 +1,16 @@
 # 👋 Hello! Welcome...
 
-<!--
-**gsferro/gsferro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou apaixonado por simplificar problemas complexos, permitindo que você aproveite as soluções de forma eficiente e intuitiva. Ao utilizar minhas soluções, você reduzirá a quantidade de tempo e esforço necessários para Implementar as suas soluções, tornando o processo de desenvolvimento mais fácil e descomplicado/easy.
+-----
 
-Here are some ideas to get you started:
+## [Meu Packagist](https://packagist.org/packages/gsferro/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## [Packagist](https://packagist.org/packages/gsferro/)
-
-## Ferramentas e Tecnologias
+## Ferramentas e Tecnologias:
 
 <div>
 <!--backend -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"  alt="php"/>
+<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/laravel/laravel-original.svg" width="40" height="40" alt="laravel" />
 <!-- SGBD -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" />
@@ -39,7 +27,7 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" width="40" height="40" />
 </div>
 
-## Estatísticas
+## Estatísticas:
 <div>
 <a href="https://github.com/seu-usuário-aqui">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsferro&layout=compact&langs_count=7&theme=dracula"/>
